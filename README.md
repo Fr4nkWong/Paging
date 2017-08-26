@@ -1,2 +1,3 @@
 # Paging
-分页DEMO
+Javascript plugin.<br/>
+Jquery plugin.
